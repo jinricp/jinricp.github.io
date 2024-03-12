@@ -1,1 +1,1 @@
-这是一个JINRICP节目爱好都BLOG
+这是一个Jinricp节目爱好的Blog
