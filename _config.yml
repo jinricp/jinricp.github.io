@@ -1,5 +1,5 @@
 # Site settings
-title: Jinricp中文资源首发站
+title: Jinricp韩国BJ女团
 SEOTitle: Jinricp韩国女团中文资源站
 header-img: img/post-bg-desk.jpg
 email: jinricp@gmail.com
@@ -75,7 +75,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: b50bf2b12b5338a1845e33832976fd98
 
 # Google Analytics
 ga_track_id: 'G-J2MV3Z2BGL'            # Format: UA-xxxxxx-xx
