@@ -100,16 +100,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "AAA",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "BBB",
+        href: "http://www.jianshu.com"
     },{
-        title: "Apple",
+        title: "CCC",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
+        title: "DDD",
         href: "https://developer.apple.com/"
     }
 ]
