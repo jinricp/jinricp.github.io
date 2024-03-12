@@ -1,29 +1,28 @@
 # Site settings
 title: Jinricp Blog
-SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: Jinricp韩国女团中文资源站
 header-img: img/post-bg-desk.jpg
 email: jinricp@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+description: "全球首次大尺度脱衣舞直播综艺秀"
+keyword: "Jinricp, 韩国女团, 脱衣舞, 直播, 性感, 风骚, 露点, 大尺度, 中文"
+url: "http://www.jinricp.com"                                                    # your host, for absolute URL
+baseurl: ""                                                                               # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                                                                           # whether or not using Sidebar.
+sidebar-about-description: "更多免费精彩内容上老王论坛"
+sidebar-avatar: /img/about-laowang-logo.jpg                          # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-#github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     
+# zhihu_username:     
+# github_username:    
+# facebook_username:  
+# jianshu_username:   
+# twitter_username:   
 
 
 
@@ -56,18 +55,18 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ Disqus（https://disqus.com/）
+ disqus_username: jinricp
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: false                                                                          #是否开启Gitalk评论
+  clientID: 8a0f58d306be4df4155c                                            #生成的clientID
+  clientSecret: 9028af63cd978b3094caf043730c56f508cc0f49    #生成的clientSecret
+  repo: jinricp.github.io                                                             #仓库名称
+  owner: jinricp                                                                         #github用户名
+  admin: jinricp
+  distractionFreeMode: true                                                      #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -77,8 +76,8 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'G-J2MV3Z2BGL'            # Format: UA-xxxxxx-xx
+ga_domain: jinricp.com                    # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +98,16 @@ service-worker: true
 # Friends
 #friends: [
 #    {
-#        title: "WY",
-#        href: "http://zhengwuyang.com"
+#        title: "AAA",
+#        href: "http://"
 #    },{
-#        title: "简书·BY",
-#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#        title: "BBB",
+#        href: "http://"
 #    },{
-#        title: "Apple",
-#        href: "https://apple.com"
+#        title: "CCC",
+#        href: "https://"
 #    },{
-#        title: "Apple Developer",
-#        href: "https://developer.apple.com/"
+#        title: "DDD",
+#        href: "https://"
 #    }
 #]
