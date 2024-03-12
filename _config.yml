@@ -98,18 +98,3 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "AAA",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "BBB",
-        href: "http://www.jianshu.com"
-    },{
-        title: "CCC",
-        href: "https://apple.com"
-    },{
-        title: "DDD",
-        href: "https://developer.apple.com/"
-    }
-]
