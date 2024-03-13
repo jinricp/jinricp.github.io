@@ -24,7 +24,6 @@ tags:
 
 ![](http://ww2.sinaimg.cn/large/7853084cgw1fa3cqnu8s2g207i0dc4qp.gif)
 
-
 # 实现方法
 
 要实现电话号码格式的输入看似简单，但是实现起来坑非常多，至于坑是什么只有各位动手写了才能体会~
