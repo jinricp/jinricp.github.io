@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      【Jinricp】韩国美女天团脱衣秀
+subtitle:   往期资源汇总
+date:       2024-03-21
+author:     Jinricp
+header-img: img/post-bg-20240219.jpg
+catalog: true
+tags:
+    - 露点
+    - 韩宝贝
+    - VIP场
+    - 目录
+---
+
+### **前言：**
+
+目前所有的资源都已经重新制作完毕，近一个星期没日没夜的做，终于把之前的功课补上了，虽说字幕都是机翻，对于影视字幕，只是少了人工二次翻译环节，但工作量却一点也不少，还是要进行时间线校对的，每一期资源都是10个小时，隔一天就一更新，一个帐号翻译API字数是100万，我已经用掉三个了！这一期的字幕相当于做美剧的一季。目前已经更新至12期，工作量应该顶得上翻译一部“权利的游戏”了，可人家拍了9年，而这些视频更新不到一个月~~~
+
+但是，看到有这么多人的支持，还有很多朋友给我发邮件表示认可，所有的辛苦也都是值得的。
+
+**关于打赏**：并不是为了这个要赚钱，之前几期免费发布在老王论坛，结果发现转眼间就让人搬到了其它网站，并进行标价出售，而且价格还很贵（要办会员），这就让我感觉很不爽，因此，后来我就不再做外挂字幕，视频中也在不影响大家观看的前提下加了水印，每一期资源也进行了区分，让大家可以有选择的分期下载，不必专门为了这个节目再去其它网站花大价钱去充值会员。（当然了，大家的打赏也让我可以多加几个鸡腿，干活更有动力~~~）
+
+因为已经更新了十多期的资源了，这里制作一个汇总贴，方便大家对视频资源可以更好的进行区分！
+
+---
+
+![](https://www.imgccc.com/2024/03/20/a4e36c9eccfd9.gif)
+
+### 资源汇总：
+
+|   期数   | 发布日期 | 原文件大小 | 双语字幕版 | 百度链接 | PikPak链接 | 打赏地址 | 原文地址 |
+| :------: | :------: | :--: | :--: | :--: | :--: | :--: | :------: |
+|  **第一期**  | 20240219 | 43.4 | 22.6 | [【点击查看】](https://pan.baidu.com/s/1yLckgDpbUutjrUGxrh_ZoQ?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtGed9dov5CDV4VeKRIZEiho1) | [<一瓶可乐>](https://kkl.mileifk.com/details/0FBCD28B) | *[点击跳转](https://jinricp.com/2024/02/19/Jinricp-0219/)* |
+|  **第二期**  | 20240221 | 30 | 18.8 | [【点击查看】](https://pan.baidu.com/s/1Ugbvr1scGKpANElbZ1gkSQ?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtGeblhceJjeoa5Ul65N5_ro1) | [<一瓶可乐>](https://kkl.mileifk.com/details/B1654F87) | *[点击跳转](https://jinricp.com/2024/02/21/Jinricp-0221/)* |
+|  **第三期**  | 20240223 | 30.2 | 20.6 | [【点击查看】](https://pan.baidu.com/s/1UQ15yco1prSMJAnO6_HVKQ?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtGeaSV7LieDTLaq4kjjFOro1) | [<一瓶可乐>](https://kkl.mileifk.com/details/50A4E5DA) | *[点击跳转](https://jinricp.com/2024/02/23/Jinricp-0223/)* |
+|  **第四期**  | 20240226 | 48.2 | 30.2 | [【点击查看】](https://pan.baidu.com/s/1b9SNB0xNrgA_KzFXcb9Paw?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtGe_9MK598cTo7SxhgkZpWo1) | [<一瓶可乐>](https://kkl.mileifk.com/details/543644ED) | *[点击跳转](https://jinricp.com/2024/02/26/Jinricp-0226/)* |
+|  **第五期**  | 20240228 | 44.5 | 20.5 | [【点击查看】](https://pan.baidu.com/s/1k1a8XZOwI8Xy2dwXej1bbg?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtEU7ug9FykFMi6Tz3l2tIVo1) | [<一瓶可乐>](https://kkl.mileifk.com/details/186C72E3) | *[点击跳转](https://jinricp.com/2024/02/28/Jinricp-0228/)* |
+|  **第六期**  | 20240304 | 40.6 | 25.6 | [【点击查看】](https://pan.baidu.com/s/1hT0UeLJe9apgk_CPv1PqXg?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtELtjoov5CdU-ARtiZQnc1o1) | [<一瓶可乐>](https://kkl.mileifk.com/details/DEE68B8B) | *[点击跳转](https://jinricp.com/2024/03/04/Jinricp-0304/)* |
+|  **第七期**  | 20240306 | 34.9 | 22   | [【点击查看】](https://pan.baidu.com/s/1Fsc5rczSivHXgIjg3gd9ZA?pwd=effx) | [【点击查看】](https://mypikpak.com/s/VNtELsfl9FykFMi6Tz3l1g0co1) | [<一瓶可乐>](https://kkl.mileifk.com/details/C0F7E0CB) | *[点击跳转](https://jinricp.com/2024/03/06/Jinricp-0306/)* |
+|  **第八期**  | 20240308 | 41.3 | 25.8 | [【点击查看】](https://pan.baidu.com/s/1hkJNlZPI49EnYLIEf8CyUQ?pwd=effx) | [【点击查看】](https://mypikpak.com/s/VNtELrdFmJeasJZdTptjcsgSo1) | [<一瓶可乐>](https://kkl.mileifk.com/details/8759006D) | *[点击跳转](https://jinricp.com/2024/03/08/Jinricp-0308/)* |
+|  **第九期**  | 20240311 | 32.5 | 20.4 | [【点击查看】](https://pan.baidu.com/s/1948t7oBhD4pT3dp7LZXF3A?pwd=ymsq) | [【点击查看】](https://mypikpak.com/s/VNtELqhd7LieDTLaq4kjBFuno1) | [<一瓶可乐>](https://kkl.mileifk.com/details/40D81447) | *[点击跳转](https://jinricp.com/2024/03/11/Jinricp-0311/)* |
+|  **第十期**  | 20240313 | 34.1 | 21.5 | [【点击查看】](https://pan.baidu.com/s/19jpCHtlXaHC0T33qjs9scQ?pwd=effx) | [【点击查看】](https://mypikpak.com/s/VNtELphcYiNXoRU9HLc8OnW9o1) | [<一瓶可乐>](https://kkl.mileifk.com/details/5FE48D11) | *[点击跳转](https://jinricp.com/2024/03/13/Jinricp-0313/)* |
+| **第十一期** | 20240315 | 37.1 | 22.6 | [【点击查看】](https://pan.baidu.com/s/1dhTuQ1vSLY2foD1MnTfXEg?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtELoAP7LieDTLaq4kjBFcRo1) | [<一瓶可乐>](https://kkl.mileifk.com/details/B9E9A761) | *[点击跳转](https://jinricp.com/2024/03/15/Jinricp-0315/)* |
+| **第十二期** | 20240318 | 35 | 21.9 | [【点击查看】](https://pan.baidu.com/s/1_uuDOBGRmp-5KWAMD-UYcA?pwd=efse) | [【点击查看】](https://mypikpak.com/s/VNtME5Luov5CDV4VeKRJgQDxo1) | [<一瓶可乐>](https://kkl.mileifk.com/details/181DAF7F) | *[点击跳转](https://jinricp.com/2024/03/18/Jinricp-0318/)* |
+
+**备注：**
+
+1. 没有百度网盘会员的，可以优先使用PikPak，用我的链接注册还可以白嫖5天会员，足够把这些资源下载下来了，如果你觉得这个网盘还不错，过后再办会员，那就随你心意了；
+2. 磁力链接在各期详情页里，优先使用PikPak离线下载，因为我这资源算是首发，我只传到了PikPak里，网络里不一定有，所以用其它软件下载要看天意；
+3. 百度网盘本周末将会取消，大家优先使用PikPak，不用担心资源敏感，还能各种离线下载，谁用谁爽~~；
+4. 打赏地址实在不稳定，进不去时大家先下载视频，稍后刷新一下，或用浏览器隐私模式再试试~~（把我惹急了就自己建一个，就再不用担心这问题了，目前还请将就一下）
+5. 最后再重复一点，大家一下要看好对应的资源下载啊，不要用这期的密码解压其它日期的文件~~~（解不开别找我）
+
+------
+
+### 有任何疑问：
+
+
+请给我发邮件：jinricp@gmail.com ，我会第一时间回复你们，如果有任何好的建议和合作意愿，也欢迎随时来交流！
